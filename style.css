@@ -1,0 +1,63 @@
+body{
+	background-image: url(bassiani.jpg);
+	color: white;
+	background-size: cover;
+}
+h1{
+	font-size: 30px;
+	text-shadow: 1px 1px 1px;
+	display: inline-block;
+
+	
+}
+p{
+	font-size: 30px;
+	text-decoration: inherit;
+
+}
+.ab{
+	font-size: 25px;
+	color: gray;
+}
+.bb{
+	color: red;
+}
+h2{
+	font-size: 30px;
+	text-shadow: 1px 1px 1px;
+	
+}
+
+}
+.cc{
+	background-color: none;
+	padding: 15px;
+	
+}
+h3{
+	color: yellow;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px;
+}
+
+.cont{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+h4{
+	font-size: 30px;
+	text-shadow: 1px 1px 1px;
+}
+
+.ric{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.video{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
